@@ -1,2 +1,3 @@
-\Source\Server\__pycache__\
-\Source\Server\.venv
+__pycache__/
+*.pyc
+Source/Server/.venv/
